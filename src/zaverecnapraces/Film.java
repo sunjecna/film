@@ -47,7 +47,7 @@ public class Film implements Comparable<Film> {
     public String toString() { 
     	return "Film: " + Nadpis +"\n" +
                "Kinosal: " + Kinosal + "\n" +
-    			"Cas: " + Cas + "\n" + gay
+    			"Cas: " + Cas + "\n" + 
     			"Zanr: " + Zanr + "\n" +
     			"Herci: " + Herci + "\n";
     			
